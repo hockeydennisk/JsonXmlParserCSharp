@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PuhuFootScannerConfig>
+   <motorSerialPort>COM4</motorSerialPort>
+   <camPositionRight>200</camPositionRight>
+   <camPositionLeft>400</camPositionLeft>
+   <camAngleRight>200</camAngleRight>
+   <camAngleLeft>200</camAngleLeft>
+   <footMaskBoundaryLeft>100</footMaskBoundaryLeft>
+   <footMaskBoundaryRight>200</footMaskBoundaryRight>
+   <footMaskBoundaryTop>300</footMaskBoundaryTop>
+   <footMaskBoundaryBottom>400</footMaskBoundaryBottom>
+</PuhuFootScannerConfig>

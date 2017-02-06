@@ -1,0 +1,11 @@
+{  
+   "motorSerialPort":"COM4",
+   "camPositionRight":200,
+   "camPositionLeft":400,
+   "camAngleRight":70,
+   "camAngleLeft":110,
+   "footMaskBoundaryLeft":100,
+   "footMaskBoundaryRight":200,
+   "footMaskBoundaryTop":300,
+   "footMaskBoundaryBottom":500
+}
